@@ -47,8 +47,8 @@ The Kali Linux virtual machine was configured with:
 
 The Kali VM successfully received addresses on both virtual networks:
 
-- NCSA-LABS: `10.0.2.0/24`
-- HOME-LABS: `10.0.20.0/24`
+- NCSA-LABS: Correct NAT network address ranges
+- HOME-LABS: Correct NAT network address ranges
 
 Connectivity testing confirmed:
 
